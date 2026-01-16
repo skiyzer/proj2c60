@@ -1,12 +1,19 @@
 import './App.js';
-import tablerow from './tablerow.js';
+import Tablerow from './tablerow.js';
 
-function table()
+function table(props)
 {
-    <tr>
-        <thead className={result.grant.Title}>
-            {result.Grant.title}
-            {result.Grant.institution}
-        </thead>
-    </tr>
+    return(
+        <table>
+            <Tablerow grants={props.grant}></Tablerow>
+            <tbody>
+                
+            </tbody>
+        </table>
+
+    )
+    
 }
+
+
+export default table

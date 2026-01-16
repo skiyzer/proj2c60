@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 import { useEffect } from 'react';
+import table from './table';
 
 function App() {
    const [Grant, setGrant] = useState([{}]);
@@ -18,7 +19,6 @@ function App() {
         }
       fetchGrant();
    },[]);
-   
   return (
     <div className="App">
       <header className="App-header">
@@ -26,11 +26,12 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <tr>
-            <td>
-              {}
-            </td>
-        </tr>
+        <table>
+          <tablerow grants={Grant}></tablerow>
+          <tbody>
+            
+          </tbody>
+        </table>
       </header>
     </div>
   );

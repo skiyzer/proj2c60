@@ -1,8 +1,13 @@
-{Grant.map((value)=>
-    <tr>
-        <td key = "  ">
-            {value.grant.title}
-            {value.grant.institution}
-        </td>
-    </tr>    
-)}
+function Tablerow(props)
+{
+    return(
+        <>
+            <tr>
+                <td>{props.grant.title}</td>
+                <td>{props.grant.institution}</td>
+            </tr>
+        </>
+    )
+}
+
+export default Tablerow
