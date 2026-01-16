@@ -1,0 +1,2086 @@
+{
+    "Grants": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@noNamespaceSchemaLocation": "NEH_Grants_v3.1.xsd",
+        "Grant": [
+            {
+                "@AppNumber": "CHA-261870-20",
+                "ApplicantType": "1",
+                "Institution": "University of California, Santa Barbara",
+                "OrganizationType": "University",
+                "InstCity": "Santa Barbara",
+                "InstState": "CA",
+                "InstPostalCode": "93106-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "24",
+                "Latitude": "34.41698",
+                "Longitude": "-119.84639",
+                "CouncilDate": "2018-07-01",
+                "YearAwarded": "2018",
+                "ProjectTitle": "Collection Preservation and Study Center",
+                "Program": "Infrastructure and Capacity Building Challenge Grants",
+                "Division": "Challenge Programs",
+                "ApprovedOutright": "0.0000",
+                "ApprovedMatching": "326593.0000",
+                "AwardOutright": "0.0000",
+                "AwardMatching": "104833.0000",
+                "OriginalAmount": "104833.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2018-08-01",
+                "EndGrant": "2025-07-31",
+                "ProjectDesc": "<p>The Art, Design &amp; Architecture Museum at the University\nof California, Santa Barbara (AD&amp;AM) has built an international reputation\nthrough its Architecture and Design Collection. Encompassing the history of\nSouthern California architecture, landscape design, and urbanism from the late\n19th to the early 21st century, this still growing collection is the essential\narchival resource for the study of Southern California through the prism of the\nbuilt environment. The AD&amp;AM requests $326,593 as part of a $1,306,371 NEH\nChallenge grant to enhance the Museum\u2019s infrastructure for collection preservation,\naccess and growth by supporting the renovation of a new Collection Preservation\nand Study Center. The Center is needed to preserve and enable growth of the\ncollection, and to foster intensive and innovative use of the collection by\nstudents and scholars through on-site visits and online access. Funds will be\nraised from foundations, individual and corporate donors.</p>",
+                "ToSupport": "Renovation of a university property to house the\nmuseum\u2019s collections as well as a research and study center.",
+                "PrimaryDiscipline": "Art History and Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "4",
+                "Participant": [
+                    {
+                        "Firstname": "Bruce",
+                        "Lastname": "Robertson",
+                        "Institution": "University of California, Santa Barbara",
+                        "City": "Santa Barbara",
+                        "State": "CA",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2018-03-14",
+                        "ValidTo": "2019-10-29"
+                    },
+                    {
+                        "Firstname": "Elyse",
+                        "Lastname": "Gonzales",
+                        "Institution": "University of California, Santa Barbara",
+                        "City": "Santa Barbara",
+                        "State": "CA",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2019-10-29",
+                        "ValidTo": "2020-03-24"
+                    },
+                    {
+                        "Firstname": "Silvia",
+                        "Lastname": "Perea",
+                        "Institution": "University of California, Santa Barbara",
+                        "City": "Santa Barbara",
+                        "State": "CA",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2020-03-24",
+                        "ValidTo": "2021-11-09"
+                    },
+                    {
+                        "Firstname": "Gabriel",
+                        "Lastname": "Ritter",
+                        "Institution": "University of California, Santa Barbara",
+                        "City": "Santa Barbara",
+                        "State": "CA",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2021-11-09"
+                    }
+                ],
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "Art History and Criticism"
+                }
+            },
+            {
+                "@AppNumber": "CHA-264420-20",
+                "ApplicantType": "1",
+                "Institution": "Maine State Museum",
+                "OrganizationType": "General Museum",
+                "InstCity": "Augusta",
+                "InstState": "ME",
+                "InstPostalCode": "04333-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "2",
+                "Latitude": "44.41405",
+                "Longitude": "-69.75191",
+                "CouncilDate": "2019-03-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Maine State Museum Education Center",
+                "Program": "Infrastructure and Capacity Building Challenge Grants",
+                "Division": "Challenge Programs",
+                "ApprovedOutright": "0.0000",
+                "ApprovedMatching": "95000.0000",
+                "AwardOutright": "0.0000",
+                "AwardMatching": "95000.0000",
+                "OriginalAmount": "95000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2019-05-01",
+                "EndGrant": "2024-04-30",
+                "ProjectDesc": "This project seeks a $95,000 challenge grant to complete capital fundraising for a new education center to be built within the Maine State Museum in Augusta, Maine. The center will transform the museum's already well-regarded educational work by giving it important new capacities and versatility. The center will provide essential specially-designed space and technologies to allow museum educators to better deliver humanities-based, interactive 21st century learning opportunities to some 50,000 visitors annually.",
+                "ToSupport": "The construction of a new education center to\noffer enhanced humanities programming, particularly for school-age audiences,\nat the Maine State Museum in Augusta, Maine.",
+                "PrimaryDiscipline": "Cultural History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Bernard",
+                    "Lastname": "Fishman",
+                    "Institution": "Maine State Museum",
+                    "City": "Augusta",
+                    "State": "ME",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2018-08-09"
+                },
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "Cultural History"
+                }
+            },
+            {
+                "@AppNumber": "CHA-264437-20",
+                "ApplicantType": "1",
+                "Institution": "Anthology Film Archives, Inc.",
+                "OrganizationType": "Archive",
+                "InstCity": "New York",
+                "InstState": "NY",
+                "InstPostalCode": "10009",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "1",
+                "Latitude": "40.72649",
+                "Longitude": "-73.98101",
+                "CouncilDate": "2019-03-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Anthology Film Archives Library Project",
+                "Program": "Infrastructure and Capacity Building Challenge Grants",
+                "Division": "Challenge Programs",
+                "ApprovedOutright": "0.0000",
+                "ApprovedMatching": "750000.0000",
+                "AwardOutright": "0.0000",
+                "AwardMatching": "750000.0000",
+                "OriginalAmount": "750000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2019-05-01",
+                "EndGrant": "2026-03-31",
+                "ProjectDesc": "Anthology Film Archives (AFA) is requesting a $750,000 NEH Challenge Grant to support the construction of a new, publicly accessible library. The library is the centerpiece of a major capital project to expand and renovate AFA\u2019s facilities\u2014for 30 years housed in Manhattan\u2019s 1919 former Second Avenue Courthouse building\u2014which will nearly double AFA\u2019s overall space from 20,000 to 35,000 square feet. The total project budget is $15.3 million with $10.5M raised to date. AFA has received cash donations and pledges from foundations and individuals totaling $5.5M; the City of New York has committed $4.5M; and an additional $4.8M remains to be raised, $3.75M of which will be dedicated to the library. Major outcomes for the project will be to improve conditions for the preservation, study, and exhibition of artist-made film and media, enabling AFA to serve significantly more visitors and ensure its invaluable collections are preserved at the highest standards and more broadly accessible to all.",
+                "ToSupport": "<p>Construction\nof a new library unit, as part of a larger renovation of the Anthology Film\nArchives (AFA), to improve preservation and provide access to rare printed\nmaterials and unique archival collections documenting the history of American\nand international experimental cinema.</p>",
+                "PrimaryDiscipline": "Film History and Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "John",
+                    "Lastname": "Mhiripiri",
+                    "Institution": "Anthology Film Archives, Inc.",
+                    "City": "New York",
+                    "State": "NY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2018-08-09"
+                },
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "Film History and Criticism"
+                }
+            },
+            {
+                "@AppNumber": "FEL-267194-20",
+                "ApplicantType": "2",
+                "Institution": "Pennsylvania State University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "University Park",
+                "InstState": "PA",
+                "InstPostalCode": "16802-1503",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "15",
+                "Latitude": "40.80366",
+                "Longitude": "-77.85432",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The First Novel Specially Written for Women: An Edition and Translation of Jacopo Caviceo's Peregrino (1508)",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "30000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "30000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "30000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-07-01",
+                "EndGrant": "2020-12-31",
+                "ProjectDesc": "A six-month NEH Individual Fellowship will permit the completion of the first-ever English translation from Italian and a substantial critical introduction of Jacopo Caviceo's <em>Peregrino </em>(1508). The European bestseller has been called \"the first novel specially written for women\" (Letizia Panizza in <em>The Cambridge History of Italian Literature</em>) and was the first prose romance dedicated to a historical woman (Lucrezia Borgia).",
+                "ToSupport": "Research and writing leading to the first English translation of the popular\nearly Italian novel <em>Peregrino</em> by\nJacopo Caviceo (1508).",
+                "PrimaryDiscipline": "Italian Literature",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Sherry",
+                    "Lastname": "Roush",
+                    "Institution": "Pennsylvania State University",
+                    "City": "University Park",
+                    "State": "PA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-02-22"
+                },
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "Italian Literature"
+                }
+            },
+            {
+                "@AppNumber": "FEL-267212-20",
+                "ApplicantType": "2",
+                "Institution": "University of Kentucky Research Foundation",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Lexington",
+                "InstState": "KY",
+                "InstPostalCode": "40506-0004",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "6",
+                "Latitude": "38.03919",
+                "Longitude": "-84.50654",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Aesthetic Cold War: Decolonization and Global Literature",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "30000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "30000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "30000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2020-07-31",
+                "ProjectDesc": "During the Cold War, both the US and the Soviet\nUnion jockeyed for geopolitical influence in what was then called the Third\nWorld. The superpowers also competed for intellectual influence by sponsoring\nliterary activities in Africa, Asia, and the Caribbean. The Congress for\nCultural Freedom (organized clandestinely by the CIA), the US State Department,\nand the Soviet Writers' Union funded outreach programs in the decolonizing\nworld, hosting international conferences, establishing publishing houses and\nmagazines, and sponsoring cultural exchange programs. Surprisingly, writers\nfrom decolonizing areas did not line up neatly into Cold War camps. As archival\nresearch demonstrates, writers were willing to accept patronage from both US\nand Soviet agencies. This includes some of the leading intellectuals the day,\nsuch as Chinua Achebe, Alex La Guma, Wole Soyinka, and Ngugi wa Thiong'o.&nbsp;",
+                "ToSupport": "Completion of a book on the literary production\nin Africa, Asia, and the Caribbean under the influence of Cold War politics.",
+                "PrimaryDiscipline": "Literature, General",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Peter",
+                    "Lastname": "Kalliney",
+                    "Institution": "University of Kentucky Research Foundation",
+                    "City": "Lexington",
+                    "State": "KY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-05"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "African Literature"
+                    },
+                    {
+                        "Name": "British Literature"
+                    },
+                    {
+                        "Name": "Literature, General"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267217-20",
+                "ApplicantType": "2",
+                "Institution": "Tufts University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Somerville",
+                "InstState": "MA",
+                "InstPostalCode": "02144-2401",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "7",
+                "Latitude": "42.39959",
+                "Longitude": "-71.12488",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Modern Conception of Sovereignty: A New Edition of Jean Bodin's The Six Bookes of a Commonweale",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-07-01",
+                "EndGrant": "2022-06-30",
+                "ProjectDesc": "Preparation of a new, cleaned-up, annotated edition of Jean Bodin's political treatise The Six Bookes of a Commonweale, which was translated by Richard Knolles in 1606 and is no longer in print, despite its extensive influence on modern political thought.",
+                "ToSupport": "Editing, research, and writing annotations leading to the publication of an edition of French political philosopher Jean Bodin\u2019s (1530-1596) <em>The Six Bookes of a Commonweale </em>(1576).",
+                "PrimaryDiscipline": "Political Theory",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Ioannis",
+                    "Lastname": "Evrigenis",
+                    "Institution": "Trustees of Tufts College Inc.",
+                    "City": "Somerville",
+                    "State": "MA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Philosophy, Other"
+                    },
+                    {
+                        "Name": "Political Theory"
+                    },
+                    {
+                        "Name": "Renaissance History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267222-20",
+                "ApplicantType": "2",
+                "Institution": "University of Edinburgh",
+                "OrganizationType": "University",
+                "InstCity": "Edinburgh",
+                "InstState": "Un",
+                "InstPostalCode": "EH8 9AG",
+                "InstCountry": "Scotland",
+                "CongressionalDistrict": "2",
+                "Latitude": "Unknown",
+                "Longitude": "unknown",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Prestes Column Rebellion: An Interior History of Twentieth-Century Brazil",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "This project offers the first critical reinterpretation of one of the most mythologized events in Brazilian history: the Prestes Column rebellion, when from 1924 to 1927, a group of junior army officers marched nearly 25,000 kilometers through Brazil's vast interior. While existing scholarship has treated the passage through the interior as a backdrop to the rebellion, I focus on the interior regions themselves, exploring how the country's so-called \u201cbacklands\" served as both a place and a concept in the formation of modern Brazil. By analyzing the rebel passage through the interior and also the meanings attached to that experience afterwards, I will chart the Column's political, conceptual, and geographic significance throughout the twentieth century.My study of the Prestes Column will also serve to develop an entirely new subfield: interior history, an innovative approach for studying Brazil and also Latin America as a whole.",
+                "ToSupport": "Research and writing leading to a\nbook on the Prestes Column, a rebellion of military personnel that shook\nBrazilian politics and ignited the public imagination during the 1920s.",
+                "PrimaryDiscipline": "Latin American History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Jacob",
+                    "Lastname": "Blanc",
+                    "Institution": "McGill University",
+                    "City": "Montr\u00e9al",
+                    "State": "ZZ",
+                    "Country": "Canada",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-08"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "Latin American History"
+                    },
+                    {
+                        "Name": "Rural Studies"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267225-20",
+                "ApplicantType": "2",
+                "Institution": "University of Florida",
+                "OrganizationType": "Center For Advanced Study/Research Institute",
+                "InstCity": "Gainesville",
+                "InstState": "FL",
+                "InstPostalCode": "32611-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "3",
+                "Latitude": "29.64506",
+                "Longitude": "-82.3521",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Patriots and Traitors in Revolutionary Cuba, 1961-1981",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-08-01",
+                "EndGrant": "2021-07-31",
+                "ProjectDesc": "\u201cThese children will be patriots or traitors,\u201d a poster declared in 1965 Cuba, \u201cyou decide. Teach them the work of the Revolution.\u201d Yet citizens rarely responded to this call with unconditional support. For this reason, in the 1970s, the state turned to \u201crehabilitation\u201d of citizens through labor camps, Soviet pedagogy designed to create a \u201cCommunist personality in every child\u201d and finally, Fidel\u2019s launch of the Mariel Boatlift in 1980\u2014a policy to rid Cuba of critics accused of lacking \u201crevolutionary genes\u201d. What was it like to grow up in this Cuba? How did leaders go from \u201cteaching the work of the Revolution\u201d to repression and exclusion?  Through unused archives and oral history, I delve into the mechanisms through which grassroots support was constructed and challenged. Finding that the burdens of revolutionary citizenship often blurred lines, I illuminate an ironically apolitical nation within the binary of patriot vs. traitor: there, a creative, collective individualism thrived.",
+                "ToSupport": "Research and writing leading to a\nbook on youth education programs during the Cuban Revolution between 1961 and\n1981.",
+                "PrimaryDiscipline": "Latin American History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Lillian",
+                    "Lastname": "Guerra",
+                    "Institution": "University of Florida",
+                    "City": "Gainesville",
+                    "State": "FL",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-11"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Cultural History"
+                    },
+                    {
+                        "Name": "Latin American History"
+                    },
+                    {
+                        "Name": "Latin American Studies"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267248-20",
+                "ApplicantType": "2",
+                "Institution": "Duquesne University",
+                "OrganizationType": "University",
+                "InstCity": "Pittsburgh",
+                "InstState": "PA",
+                "InstPostalCode": "15282-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "12",
+                "Latitude": "40.436970",
+                "Longitude": "-79.992840",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Professor Was a Spy: A Biography of Norman Holmes Pearson (1909-1975), American Literary Scholar",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-07-01",
+                "EndGrant": "2022-06-30",
+                "ProjectDesc": "As a scholar, teacher, networker, and spy, Norman Holmes Pearson's influence in 20th century American culture was profound, although barely known. With this NEH fellowship, I will complete my biography of Pearson. But this is a cultural biography, using Pearson\u2019s life, experiences, and accomplishments to illustrate the evolution of American society from the 1920s to the 1970s, with a particular focus on how elite culture came together in the 1940s and 1950s to advance a political, cultural, and aesthetic vision of America, and how that consensus fell apart with Vietnam.",
+                "ToSupport": "Research and writing leading to a cultural biography of Norman Holmes Pearson (1909-1975), a proponent of literary modernism, a U.S. intelligence operative, and a founding father of American Studies.",
+                "PrimaryDiscipline": "Cultural History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Gregory",
+                    "Lastname": "Barnhisel",
+                    "Institution": "Duquesne University",
+                    "City": "Pittsburgh",
+                    "State": "PA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-18"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "American Literature"
+                    },
+                    {
+                        "Name": "Cultural History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267252-20",
+                "ApplicantType": "2",
+                "Institution": "George Mason University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Fairfax",
+                "InstState": "VA",
+                "InstPostalCode": "22030-4444",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "11",
+                "Latitude": "38.835420",
+                "Longitude": "-77.307560",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Abstract Art in the Andes, 1950-1970",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "Informalist abstraction (also referred to as gestural or lyrical abstraction) emerged as a dominant trend in Andean art in the 1950s and 1960s, simultaneous to and in dialogue with the advent of this variant of abstraction in Europe and the United States. Yet Andean artists declared abstraction as their heritage and, by working in this manner, they believed that were finally disengaging themselves from the legacies of colonialism, assuming and transforming an aesthetic that was already rightfully theirs. This investigation will examine the nuances of postwar Andean artists\u2019 references to pre-Columbian abstract designs, the politics and implications of this posture at home and in the international art world, and its effectiveness as an aesthetic strategy in these spheres.",
+                "ToSupport": "Research and writing of a book about 20th-century abstract art from the Andean countries Bolivia, Ecuador, and Peru.",
+                "PrimaryDiscipline": "Art History and Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Michele",
+                    "Lastname": "Greet",
+                    "Institution": "George Mason University",
+                    "City": "Fairfax",
+                    "State": "VA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-19"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "Art History and Criticism"
+                    },
+                    {
+                        "Name": "Latin American Studies"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267328-20",
+                "ApplicantType": "2",
+                "Institution": "Bucknell University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Lewisburg",
+                "InstState": "PA",
+                "InstPostalCode": "17837-2005",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "15",
+                "Latitude": "40.954780",
+                "Longitude": "-76.889810",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Gandhi's Ashrams: Residential Experiments for Universal Wellbeing",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "30000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "30000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "30000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2020-07-31",
+                "ProjectDesc": "Gandhi is known worldwide for his nonviolent fight for India\u2019s independence from colonial rule. Lesser known are his utopian residential experiments conducted at the intentional communities, or ashrams, that he founded in South Africa and India: Phoenix Settlement (est. 1904), Tolstoy Farm (est. 1910), Sabarmati Ashram (est. 1915), and Sevagram Ashram (est. 1936). Residents engaged in small-scale experiments with ideals and methods for living a just life that Gandhi would apply to larger-scale social, religious, and political problems. This book focuses on the communal observances undertaken by Gandhi and his co-residents to illuminate the evolution of Gandhi\u2019s concept of sarvodaya, universal wellbeing. It argues: First, that voluntary self-control, which at times bled into self-sacrifice, was central to Gandhi\u2019s utopian philosophy of sarvodaya; and second, that Gandhi\u2019s intentional communities were the necessary conditions for his experiments with and articulation of that philosophy.",
+                "ToSupport": "Research and writing a history of four utopian communities, established by Mohandas Gandhi in South Africa and India between 1904 and 1936, which provided a model for his social thought and politics.",
+                "PrimaryDiscipline": "South Asian Studies",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Karline",
+                    "Lastname": "McLain",
+                    "Institution": "Bucknell University",
+                    "City": "Lewisburg",
+                    "State": "PA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-29"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "Nonwestern Religion"
+                    },
+                    {
+                        "Name": "South Asian Studies"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267334-20",
+                "ApplicantType": "2",
+                "Institution": "University of Texas, San Antonio",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "San Antonio",
+                "InstState": "TX",
+                "InstPostalCode": "78249-1644",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "20",
+                "Latitude": "29.57613",
+                "Longitude": "-98.61069",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The History of a Periphery: Spanish Colonial Cartography from Colombia\u2019s Pacific Lowlands, 1710-1810",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "This book-length project tells a new story about frontier regions, nature, and the limits of empire. It illuminates the pivotal role that African and indigenous inhabitants played in the economy of a gold mining region in the Viceroyalty of Nueva Granada during the last century of Spanish colonial rule. Drawing from unpublished manuscript maps and archival documents, this project reconstructs little-studied communities that existed beyond the margins of the colonial system and reveals an alternate view of the Spanish empire, one with distinct protagonists and different priorities than previously understood. This project highlights how rivers\u2014ubiquitous in this region\u2014acted as a channel for contraband, a lifeline to miners, and a pathway to freedom for African slaves.",
+                "ToSupport": "Research and writing leading to a book on unpublished maps depicting the economic life of free\nand enslaved Africans in Nueva Granada (modern-day Colombia) during the\n18th century.",
+                "PrimaryDiscipline": "Art History and Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Juliet",
+                    "Lastname": "Wiersema",
+                    "Institution": "University of Texas, San Antonio",
+                    "City": "San Antonio",
+                    "State": "TX",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-03-29"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "African History"
+                    },
+                    {
+                        "Name": "Art History and Criticism"
+                    },
+                    {
+                        "Name": "Latin American History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267379-20",
+                "ApplicantType": "2",
+                "Institution": "Providence College",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Providence",
+                "InstState": "RI",
+                "InstPostalCode": "02918-7000",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "2",
+                "Latitude": "41.842130",
+                "Longitude": "-71.440410",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Banking on Slavery in the Antebellum American South",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "35000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "35000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "35000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-01-01",
+                "EndGrant": "2021-07-31",
+                "ProjectDesc": "This project focuses on the conscious choices made by bankers to directly, knowingly, and explicitly interact with the slave system. My research reveals that southern commercial banks accepted slaves as collateral for loans, helped underwrite the sale of slaves, and sold slave property as part of foreclosure proceedings. Commercial bank involvement with slavery occurred throughout the antebellum period and across the South, placing southern banks at the heart of the domestic slave trade. This project will result in the first major monograph on the relationship between banking and slavery, as well as serving as a corrective to the conclusions of several scholars collectively called the \u201cnew historians of capitalism.\u201d Most banks limited their direct involvement with slavery, demonstrating that capitalism did not need slavery to develop. Slavery was intricately, but not inevitably, tied up with the capitalist system.",
+                "ToSupport": "Completion of&nbsp;a book on the relationship between banking and slavery in the antebellum South.",
+                "PrimaryDiscipline": "U.S. History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Sharon",
+                    "Lastname": "Murphy",
+                    "Institution": "Providence College",
+                    "City": "Providence",
+                    "State": "RI",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-02"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "African American History"
+                    },
+                    {
+                        "Name": "Economic History"
+                    },
+                    {
+                        "Name": "U.S. History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267414-20",
+                "ApplicantType": "2",
+                "Institution": "University of Georgia",
+                "OrganizationType": "University",
+                "InstCity": "Athens",
+                "InstState": "GA",
+                "InstPostalCode": "30602-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "10",
+                "Latitude": "33.95023",
+                "Longitude": "-83.37298",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Reclaiming Realism: From Documentary Film in Africa to African Documentary Film",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-07-01",
+                "EndGrant": "2021-06-30",
+                "ProjectDesc": "The first book in English to focus on African documentary, \u201cReclaiming Realism\u201d will explore the aesthetic, sociopolitical, and historical development of nonfiction film in West and Central Africa. For over half a century, French colonial documentary claimed to capture the truth about Africa and Africans. After independence, African filmmakers reclaimed the cinema and their cinematic image by experimenting with documentary content, voice and style. This project will demonstrate the vital importance of documentary first to French colonialism, then to a post-independence reframing of African identities and modes of filmic discourse. A transnational study that highlights the complex interactions between colonial and postcolonial cinemas, \u201cReclaiming Realism\u201d intervenes in contemporary critical debates about global documentary and the very nature of filmic representations of reality.",
+                "ToSupport": "Completion of&nbsp;a book about the history of&nbsp;documentary filmmaking in West and Central\nAfrica, from the French colonial period to the present.",
+                "PrimaryDiscipline": "Film History and Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Rachel",
+                    "Lastname": "Gabara",
+                    "Institution": "University of Georgia",
+                    "City": "Athens",
+                    "State": "GA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-03"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "African Studies"
+                    },
+                    {
+                        "Name": "Film History and Criticism"
+                    },
+                    {
+                        "Name": "French Language"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267420-20",
+                "ApplicantType": "2",
+                "Institution": "University of Chicago",
+                "OrganizationType": "University",
+                "InstCity": "Chicago",
+                "InstState": "IL",
+                "InstPostalCode": "60637-5418",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "1",
+                "Latitude": "41.78956",
+                "Longitude": "-87.60114",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Information Defense Industry: A History",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-07-01",
+                "EndGrant": "2021-06-30",
+                "ProjectDesc": "The information defense industry is the enterprise that works to uphold information and intellectual property in today\u2019s world. A composite global enterprise involving major corporations, policing institutions, and public agencies, it uses technology, enforcement, litigation, and lobbying to combat counterfeiting and piracy of all kinds. The industry has coalesced in the last 50 years out of disparate forces that had existed for centuries. It now plays a major, but largely unacknowledged, role in shaping the information society itself. I propose writing the first history of this industry. Starting with the guild practices of the European Renaissance, it will reveal the long and contentious process that has led from them to today\u2019s sophisticated enterprise. My book should help us understand how the defining issues of our information politics \u2013 those concerning privacy, security, authenticity, and property \u2013 attained their current form, and thereby help us devise ways of tackling them.",
+                "ToSupport": "Research and writing leading to a book on the\nhistory of individual privacy and intellectual property from the Renaissance to\nthe present.",
+                "PrimaryDiscipline": "History of Science",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Adrian",
+                    "Lastname": "Johns",
+                    "Institution": "University of Chicago",
+                    "City": "Chicago",
+                    "State": "IL",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-03"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Cultural History"
+                    },
+                    {
+                        "Name": "History of Science"
+                    },
+                    {
+                        "Name": "History, General"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "HB-267428-20",
+                "ApplicantType": "2",
+                "Institution": "CUNY Research Foundation, Queens College",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Flushing",
+                "InstState": "NY",
+                "InstPostalCode": "11367-1575",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "6",
+                "Latitude": "40.73745",
+                "Longitude": "-73.81863",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Stranger Studies: 'Gypsies' and Race-Making in the Premodern Middle East",
+                "Program": "Awards for Faculty",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2021-01-31",
+                "ProjectDesc": "Historians  of the Roma (Gypsies) work under the assumption that the earliest written records about their subject were produced by fifteenth-century non-Roma in Europe and the Ottoman Empire.  My recent work identifies the classical Arabic term for Roma and Roma-affiliated wandering groups as Strangers (ghuraba') and uses this ethnonym as an entry into the reconstruction of the community\u2019s medieval languages and its material and intellectual cultures. This new transhistorical and transregional discipline\u2014which I call Stranger Studies\u2014will generate a full reimagination of the make-up of Central Asian, Middle Eastern, North African, and European societies.",
+                "ToSupport": "Research\nand writing leading to a book about Roma language and culture in\nthe premodern Middle East.",
+                "PrimaryDiscipline": "Near and Middle Eastern History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Kristina",
+                    "Lastname": "Richardson",
+                    "Institution": "Rector and Visitors of the University of Virginia",
+                    "City": "Charlottesville",
+                    "State": "VA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-03"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "Ethnic Studies"
+                    },
+                    {
+                        "Name": "Near and Middle Eastern History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267436-20",
+                "ApplicantType": "2",
+                "Institution": "Pennsylvania State University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "University Park",
+                "InstState": "PA",
+                "InstPostalCode": "16802-1503",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "15",
+                "Latitude": "40.80366",
+                "Longitude": "-77.85432",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "An Inquiry into Humanist Reason",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-07-01",
+                "EndGrant": "2021-06-30",
+                "ProjectDesc": "This project first describes, and then revises,\nour understanding of how scholars in the humanities think -- how they use\nevidence, how they argue, how they come to the truth. It begins with an\nexploration of the philosophical roots of humanist epistemology in the\nformation of the modern, tripartite university (characterized by the division\ninto the sciences, the humanities, and the social sciences). It continues\nthrough an exploration of the Kantian roots of that philosophy, and closes with\n\"articles of reason:\" a list of principles that most humanists today\nbelieve in and practice in their scholarship and teaching. Against caricatures\nof the humanities as ideologically motivated, or even well-meaning descriptions\nof humanist work as subjectively oriented toward the individual or the unique, this\nproject makes the case for the humanities as reason, as a critical social form\nof thinking and argument that is, like every other such form, supported (and\nchanged) by the evidence it makes.",
+                "ToSupport": "Completion of a book on the philosophical\nhistory of the divide between humanities, social sciences, and science, and the future of humanistic thought.",
+                "PrimaryDiscipline": "Literary Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Eric",
+                    "Lastname": "Hayot",
+                    "Institution": "Pennsylvania State University",
+                    "City": "University Park",
+                    "State": "PA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-04"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "Comparative Literature"
+                    },
+                    {
+                        "Name": "Literary Criticism"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267442-20",
+                "ApplicantType": "2",
+                "Institution": "Harvard University",
+                "OrganizationType": "Center For Advanced Study/Research Institute",
+                "InstCity": "Cambridge",
+                "InstState": "MA",
+                "InstPostalCode": "02138-3800",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "5",
+                "Latitude": "42.373120",
+                "Longitude": "-71.118260",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Limits of Life in Early Modern Europe (1450-1700)",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "30000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "30000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "30000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2020-07-31",
+                "ProjectDesc": "We are living longer and longer. However, contrary to popular opinion, longevity is not a uniquely modern phenomenon. The Limits of Life explores the cultural and scientific world of advanced old age in early modern Europe (1450-1700). While many in this period were particularly intrigued by the possibility of extending human life, physicians and natural philosophers were also deeply concerned about the political, philosophical, ecological, and social implications of longevity. Expanding beyond the historical demography of Renaissance Italy, my research builds on recent scholarship interested in the cultural and medical history of death and dying. My research probes the ways that ideas about mortality and longevity crossed between elite spaces and popular discourse both in print and through well-documented encounters with the bodies of the aged. Longevity, as both a goal and a lived reality, revealed the religious, social, and embodied limits of early modern life.",
+                "ToSupport": "No to support statement",
+                "PrimaryDiscipline": "Renaissance History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Hannah",
+                    "Lastname": "Marcus",
+                    "Institution": "Harvard University",
+                    "City": "Cambridge",
+                    "State": "MA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-04"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "History of Science"
+                    },
+                    {
+                        "Name": "Renaissance History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267473-20",
+                "ApplicantType": "2",
+                "Institution": "University of Connecticut",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Storrs",
+                "InstState": "CT",
+                "InstPostalCode": "06269-9000",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "2",
+                "Latitude": "41.80636",
+                "Longitude": "-72.24835",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Expression, Communication, and Origins of Meaning",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-01-01",
+                "EndGrant": "2021-12-31",
+                "ProjectDesc": "We humans are not the only minded creatures in the world. Nonhuman animals, too, can have various states of mind, both affective and cognitive. But, as far as we know, we are the only creatures who speak their minds. How could this come to pass? How could some animals \u2013 descendants of speechless animals \u2013 come to develop the capacity to speak their minds? My project aims to offer an original philosophical perspective on the long-standing puzzle of the origins of linguistic meaning. The project integrates conceptual tools and theoretical insights from philosophy, linguistics, comparative psychology, anthropology, biology of communication, and cognitive science.",
+                "ToSupport": "Completion of a book on the origins of language.",
+                "PrimaryDiscipline": "Philosophy, General",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Dorit",
+                    "Lastname": "Bar-On",
+                    "Institution": "University of Connecticut",
+                    "City": "Storrs",
+                    "State": "CT",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-05"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Interdisciplinary Studies, Other"
+                    },
+                    {
+                        "Name": "Philosophy of Language"
+                    },
+                    {
+                        "Name": "Philosophy, General"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "HB-267485-20",
+                "ApplicantType": "2",
+                "Institution": "Xavier University of Louisiana",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "New Orleans",
+                "InstState": "LA",
+                "InstPostalCode": "70125-1056",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "2",
+                "Latitude": "29.965290",
+                "Longitude": "-90.108840",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Imagining the Tropics: Women, the Professionalization of Caribbean Tourism, and the Conjuring of Island Fantasy, 1890 - 1980",
+                "Program": "Awards for Faculty",
+                "Division": "Research Programs",
+                "ApprovedOutright": "55000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "55000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "55000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "I am applying for a 12-month award (full funding for summer 2020 and spring 2021 and three-fourths funding for fall 2020) to complete the final three chapters of a proposed book entitled Imagining the Tropics: Women, the Professionalization of Caribbean Tourism, and the Conjuring of Island Fantasy 1890 \u2013 1980. The book addresses women\u2019s roles in Caribbean tourism development across the twentieth century. The award will facilitate the second stage of the project, including completion of research (3 months) and writing (9 months). While often neglected in the historical narrative, my research reveals that women were crucial to the development of Caribbean tourism. Imagining the Tropics complicates a history that views modern tourism as a predominantly male-constructed fantasy, clarifies the mechanisms that built Caribbean visions of tropical escape, and frames a regional approach that highlights the incredible impact of women \u2013 Caribbean and otherwise \u2013 on this ever-expanding industry.",
+                "ToSupport": "Research and writing leading to a book on women\u2019s role in the development of the Caribbean tourism industry during the 20th century.",
+                "PrimaryDiscipline": "Women's History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Elizabeth",
+                    "Lastname": "Manley",
+                    "Institution": "Xavier University of Louisiana",
+                    "City": "New Orleans",
+                    "State": "LA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-05"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Area Studies"
+                    },
+                    {
+                        "Name": "Latin American History"
+                    },
+                    {
+                        "Name": "Women's History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "SO-267495-20",
+                "ApplicantType": "1",
+                "Institution": "Wisconsin Humanities Council",
+                "OrganizationType": "State Humanities Council",
+                "InstCity": "Madison",
+                "InstState": "WI",
+                "InstPostalCode": "53705-5202",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "2",
+                "Latitude": "43.067900",
+                "Longitude": "-89.438630",
+                "CouncilDate": "2019-07-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "State Humanities Program",
+                "Program": "State Humanities Councils General Operating Support Grants",
+                "Division": "Federal/State Partnership",
+                "ApprovedOutright": "3424696.0000",
+                "ApprovedMatching": "40540.0000",
+                "AwardOutright": "3424696.0000",
+                "AwardMatching": "40540.0000",
+                "OriginalAmount": "3465236.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2019-11-01",
+                "EndGrant": "2024-10-31",
+                "ProjectDesc": "State Humanities Program for the state of Wisconsin.",
+                "ToSupport": "General operating support for state or territorial humanities council",
+                "PrimaryDiscipline": "Interdisciplinary Studies, Other",
+                "SupplementCount": "14",
+                "ParticipantCount": "4",
+                "Participant": [
+                    {
+                        "Firstname": "Roberta",
+                        "Lastname": "Maguire",
+                        "Institution": "Wisconsin Humanities Council",
+                        "City": "Madison",
+                        "State": "WI",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2019-04-05",
+                        "ValidTo": "2019-10-30"
+                    },
+                    {
+                        "Firstname": "Arnold",
+                        "Lastname": "Chevalier",
+                        "Institution": "Wisconsin Humanities Council",
+                        "City": "Madison",
+                        "State": "WI",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2019-10-30",
+                        "ValidTo": "2020-08-13"
+                    },
+                    {
+                        "Firstname": "Diane",
+                        "Lastname": "Lichtenstein",
+                        "Institution": "Wisconsin Humanities Council",
+                        "City": "Madison",
+                        "State": "WI",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2020-08-13",
+                        "ValidTo": "2022-06-14"
+                    },
+                    {
+                        "Firstname": "Jan",
+                        "Lastname": "Larson",
+                        "Institution": "Wisconsin Humanities Council",
+                        "City": "Madison",
+                        "State": "WI",
+                        "Country": "USA",
+                        "ParticipantTypeDesc": "Project Director",
+                        "ValidFr": "2022-06-14"
+                    }
+                ],
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "Interdisciplinary Studies, Other"
+                }
+            },
+            {
+                "@AppNumber": "FEL-267498-20",
+                "ApplicantType": "2",
+                "Institution": "University of Utah",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Salt Lake City",
+                "InstState": "UT",
+                "InstPostalCode": "84112-9049",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "1",
+                "Latitude": "40.76557",
+                "Longitude": "-111.85043",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "A Rhetorical History of Women Shaping the Trajectory of Fertility Science, 1870-1970",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-08-01",
+                "EndGrant": "2021-07-31",
+                "ProjectDesc": "This rhetorical history project analyzes the scientific, public, and interpersonal communication of three women who were central to the development and implementation of fertility science as it is known today. Reformer Julia Ward Howe, psychoanalyst Helene Deutsch, and gynecologist Sophia Kleegman communicated from different social locations and time periods to push back against\u2014and contribute to\u2014scientific orthodoxy. I contend that the fissures they created in scholarly and mainstream discourses about reproductive health functioned to expand the scope of infertility diagnosis and treatment regimens, and to loosen long-held clinical beliefs about women as the central players in fertility related ills. This analysis identifies the discursive strategies that these actors employed to intervene in fertility studies and demonstrates how interventions in science often unfold not in terms of revolutions but in terms of multimodal, nonlinear, and longitudinal communicative negotiations.",
+                "ToSupport": "Research and writing leading to a book on the\nrhetorical practices of three American women involved in the study of\nfertility.",
+                "PrimaryDiscipline": "Communications",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Robin",
+                    "Lastname": "Jensen",
+                    "Institution": "University of Utah",
+                    "City": "Salt Lake City",
+                    "State": "UT",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-05"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Communications"
+                    },
+                    {
+                        "Name": "History and Philosophy of Science, Technology, and Medicine"
+                    },
+                    {
+                        "Name": "Women's History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267501-20",
+                "ApplicantType": "2",
+                "Institution": "Gettysburg College",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Gettysburg",
+                "InstState": "PA",
+                "InstPostalCode": "17325-1483",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "13",
+                "Latitude": "39.833710",
+                "Longitude": "-77.232910",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "A Biography of American Author Elizabeth Stuart Phelps (1844-1911)",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "Elizabeth Stuart Phelps (1844-1911) was a\nbestselling and influential US author across the second half of the nineteenth\ncentury. Her most famous book, <em>The Gates\nAjar</em>&nbsp;(1868), presented a vision of heaven that continues to shape\nexpectations about the afterlife to this day. A voice for reform and an\nadvocate for the rights of women, Phelps was a peer of the male authors who\nstill dominate the late-century canon, publishing alongside them in periodicals\nand volumes. Despite her talents as a writer and her contributions to American\nintellectual history, there is no critical biography of this important author:\n\"Elizabeth Stuart Phelps: The Woman Who Invented Heaven\" will correct\nthis oversight. Drawing on archival research and published histories, the\nbiography will introduce Phelps to a general audience, locating her life and\nworks in a rich account of US culture, and provide scholars with a synthetic\naccount of this prominent figure in American literary history.",
+                "ToSupport": "Research and writing of an intellectual and\ncultural biography of American author Elizabeth Stuart Phelps (1844-1911).",
+                "PrimaryDiscipline": "American Literature",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Elizabeth",
+                    "Lastname": "Duquette",
+                    "Institution": "Gettysburg College",
+                    "City": "Gettysburg",
+                    "State": "PA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-05"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "American Literature"
+                    },
+                    {
+                        "Name": "American Studies"
+                    },
+                    {
+                        "Name": "Women's History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267507-20",
+                "ApplicantType": "2",
+                "Institution": "Hofstra University",
+                "OrganizationType": "University",
+                "InstCity": "Hempstead",
+                "InstState": "NY",
+                "InstPostalCode": "11549-1000",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "4",
+                "Latitude": "40.717800",
+                "Longitude": "-73.601600",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Christian Spain before the Crusades: Power and Pragmatism in Eleventh-Century Iberia",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "The dangerous perception that medieval Europe was a theater of implacable holy war and that Spain was the arena of religiously-driven Reconquista is widespread. This project questions this perception through a study of the Iberian realms of Le\u00f3n, Galicia, and Castile in the eleventh century, under Fernando I (1037-65) and Queen Sancha (d. 1067); it will be the first study of the reign in English. The period is often seen as one in which their Christian kingdom gained the upper hand over the weaker Islamic states of al-Andalus. Historians have generally believed that Fernando aspired to imperial authority in Iberia, developed a close relationship with the French monastic order of Cluny, and exerted dominance over the Islamic states to the south. This project challenges all these presumptions. Through an original analysis of royal charters and narrative sources, it traces the pragmatic nature of power and a geopolitical environment in which religious identity was by no means paramount.",
+                "ToSupport": "Research and writing\nleading to a book on relations between 11th-century\nChristian rulers of Le\u00f3n and the Islamic states of al-Andalus.",
+                "PrimaryDiscipline": "Medieval History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Simon",
+                    "Lastname": "Doubleday",
+                    "Institution": "Hofstra University",
+                    "City": "Hempstead",
+                    "State": "NY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-05"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "European History"
+                    },
+                    {
+                        "Name": "Medieval History"
+                    },
+                    {
+                        "Name": "Medieval Studies"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267532-20",
+                "ApplicantType": "2",
+                "Institution": "SUNY Research Foundation, Binghamton",
+                "OrganizationType": "Two-Year College",
+                "InstCity": "Binghamton",
+                "InstState": "NY",
+                "InstPostalCode": "13902-4400",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "19",
+                "Latitude": "42.09521",
+                "Longitude": "-75.96456",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Trafficking, Travel, and Illicit Migration in the Early Twentieth-Century French Atlantic World",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-06-01",
+                "EndGrant": "2021-05-31",
+                "ProjectDesc": "This project investigates early twentieth-century debates on trafficking through the lens of migration history, and how women\u2019s mobility raised key questions about the distinction between free movement and unauthorized migrations. The \u201ctraffic in women\u201d generated copious documentation on such themes as border policing, passport controls, immigration law, deportation, and repatriation. In addition, letters written by ostensibly trafficked women, their families, and members of criminal networks reveal the lived experience of these migrations. Focusing primarily on the transatlantic route between France and the Americas, the project situates both the discourse and experience of early twentieth-century trafficking within a longer history of free and unfree labor, sex work, mobility, and globalization. It thereby deepens our understanding of human trafficking, one of the most visible and controversial human rights issues of our time.",
+                "ToSupport": "Research and writing leading to a book on the history of trafficking between France and the Americas in the early 20th century.",
+                "PrimaryDiscipline": "Immigration History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Elisa",
+                    "Lastname": "Camiscioli",
+                    "Institution": "SUNY Research Foundation, Binghamton",
+                    "City": "Binghamton",
+                    "State": "NY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "European History"
+                    },
+                    {
+                        "Name": "Immigration History"
+                    },
+                    {
+                        "Name": "Women's History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267537-20",
+                "ApplicantType": "2",
+                "Institution": "University of Louisville",
+                "OrganizationType": "University",
+                "InstCity": "Louisville",
+                "InstState": "KY",
+                "InstPostalCode": "40292-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "3",
+                "Latitude": "38.215560",
+                "Longitude": "-85.761940",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Paper Art and Craft: Victorian Writers and Their Materials",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "35000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "35000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "35000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2020-08-31",
+                "ProjectDesc": "This project considers 19th-century British\nauthors who used the materials of writing for inspiration and experimentation:\nCharlotte Bront\u00eb composing poems in the margins of printed books, George Eliot\njotting ideas on her blotter, E.B. Browning sewing paper to paper to edit her\npoems, or Jane Austen using straight pins to \u201ccut and paste.\u201d Albums, journals,\nand notebooks play central roles, as embodied, haptic spaces where writers\ncreated text-and-collage gifts for friends, stored material memories, or\ncollected appropriated words. Paper crafts and needlework served as text\ncomposition outside the bounds of ink and pen, and writing\u2019s platforms\u2014desk,\nslate, wall\u2014mattered. This expanded view of what creativity with textual things\nmeant was common, but the writers discussed here were excessive in their\nundoing, encrypting, and reusing. Their attention to seemingly insignificant\ndetails has been overlooked, primarily because such details have been aligned\nwith the feminine and domestic.",
+                "ToSupport": "Research and writing of a book on 19th-century\npoets, novelists, and artist who used the materials of writing and everyday\nlife as inspiration for their work.",
+                "PrimaryDiscipline": "British Literature",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Deborah",
+                    "Lastname": "Lutz",
+                    "Institution": "University of Louisville",
+                    "City": "Louisville",
+                    "State": "KY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Art History and Criticism"
+                    },
+                    {
+                        "Name": "British Literature"
+                    },
+                    {
+                        "Name": "Gender Studies"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267539-20",
+                "ApplicantType": "2",
+                "Institution": "Trustees of Mount Holyoke College",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "South Hadley",
+                "InstState": "MA",
+                "InstPostalCode": "01075-1423",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "1",
+                "Latitude": "42.25539",
+                "Longitude": "-72.57664",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Cartography of Conflict: Maps, News, and the Visual Arts in Early Modern Europe",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-07-01",
+                "EndGrant": "2021-06-30",
+                "ProjectDesc": "This project addresses a treasure trove of\nmaterial: scores of printed \u201cnews maps\u201d of sieges and battles that proliferated\nin early modern Europe. Issued hastily by publishers in cities throughout\nEurope, these works depicted current events in their geographical context,\nreporting history as it unfolded. They are a key early form of the news\u2014a\nvisual form\u2014that decisively shaped people\u2019s views about conflict and external\nthreat, and even influenced painted battle scenes in elite halls of state. Their\nimplications for our understanding of early modern culture are considerable.\nNews maps helped to build a sense of collective identity along\nproto-nationalist lines, while fueling a burgeoning awareness of\ncontemporaneity: a notion that has been considered a hallmark of modernity. In\nprobing these larger themes, this study will go beyond addressing a neglected\ngenre to provide new insight into how, where, and why information is deemed\nculturally relevant, travels, and becomes visual history.",
+                "ToSupport": "Preparation of a book on 16th-17th-century European\nprints depicting maps and battles that functioned as an early form of news\nreports.",
+                "PrimaryDiscipline": "Theater History and Criticism",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Jessica",
+                    "Lastname": "Maier",
+                    "Institution": "Trustees of Mount Holyoke College",
+                    "City": "South Hadley",
+                    "State": "MA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Renaissance History"
+                    },
+                    {
+                        "Name": "Renaissance Studies"
+                    },
+                    {
+                        "Name": "Theater History and Criticism"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267540-20",
+                "ApplicantType": "2",
+                "Institution": "Indiana University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Bloomington",
+                "InstState": "IN",
+                "InstPostalCode": "47405-7000",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "9",
+                "Latitude": "39.16604",
+                "Longitude": "-86.5268",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Moderation and the Rise of Democracy in France, 1830-1900",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-08-01",
+                "EndGrant": "2022-07-31",
+                "ProjectDesc": "Building upon the conceptual framework outlined in my previous book A Virtue for Courageous Minds: Moderation in French Political Thought, 1748-1830 (Princeton, 2012), this new interdisciplinary project fills a significant gap in the existing literature on French 19tth-century political thought.  It  explores how post-revolutionary thinkers (A. de Tocqueville, V. Cousin, F. Guizot, C. de R\u00e9musat, liberal Catholics, \u00c9. Laboulaye, and J. Ferry) used the legacy of the French Revolution to build new representative institutions and promote key reforms, most notably in the field of education. The project also addresses several important contemporary concerns. I argue that far from being of mere historical interest, moderation is particularly relevant in an eclectic age such as ours, because it can also serve as a powerful normative stance in the fight against new forms of political extremism and religious fundamentalism.",
+                "ToSupport": "No to support statement",
+                "PrimaryDiscipline": "Political Theory",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Aurelian",
+                    "Lastname": "Craiutu",
+                    "Institution": "Trustees of Indiana University",
+                    "City": "Bloomington",
+                    "State": "IN",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Intellectual History"
+                    },
+                    {
+                        "Name": "Political Science, Other"
+                    },
+                    {
+                        "Name": "Political Theory"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267541-20",
+                "ApplicantType": "2",
+                "Institution": "University of Texas at Austin",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Austin",
+                "InstState": "TX",
+                "InstPostalCode": "78712-0100",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "37",
+                "Latitude": "30.28964",
+                "Longitude": "-97.73788",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "A Biography of Audley Moore (d. 1997): Mother of Black Nationalism",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-01-01",
+                "EndGrant": "2021-12-31",
+                "ProjectDesc": "If Rosa Parks was the mother of the civil rights movement, then Audley Moore midwifed modern black nationalism. Indeed, Moore created or was involved in many of the major movement moments and organizations now considered to be central to 20th century black radical organizing from the 1920s to the 1990s. Queen Mother\u201d Audley Moore: Mother of Black Nationalism is the first full length biography of Moore\u2014one of the most influential yet understudied activists and thinkers of the 20th century. The book examines Moore\u2019s life and activism from the 1890s until her death in 1997 and argues that she was an important but overlooked progenitor of 20th century black radical thought whose organizing approaches and ideas became the architecture of modern radical black activism. Using Moore as a thread, the book offers a wide-ranging history of twentieth-century black nationalist movements, moments, and organizations, foregrounding black women\u2019s roles in creating a sustained ideological tradition.",
+                "ToSupport": "Research and writing leading to a biography of black nationalist Audley Moore (1890s-1997), whose political life spanned much of the 20th century\u2019s black nationalist movement.",
+                "PrimaryDiscipline": "African American History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Ashley",
+                    "Lastname": "Farmer",
+                    "Institution": "University of Texas at Austin",
+                    "City": "Austin",
+                    "State": "TX",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "African American History"
+                    },
+                    {
+                        "Name": "African American Studies"
+                    },
+                    {
+                        "Name": "Women's History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267547-20",
+                "ApplicantType": "2",
+                "Institution": "University of Southern California",
+                "OrganizationType": "University",
+                "InstCity": "Los Angeles",
+                "InstState": "CA",
+                "InstPostalCode": "90089-0012",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "37",
+                "Latitude": "34.020690",
+                "Longitude": "-118.285090",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Domesticating Saints in Medieval and Early Modern Rome",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-07-01",
+                "EndGrant": "2022-06-30",
+                "ProjectDesc": "This project investigates the \"domestication\" of Christian sanctity in medieval and early modern Rome. In the course of the Middle Ages, there developed a pronounced sense that churches and their saints belonged to specific regions, neighborhoods, and even families. This \"emplacement\" of medieval families and medieval saints, coupled with a resurgent interest in Rome\u2019s Christian antiquity and a heightened attentiveness to noble lineages, culminated in Roman families weaving themselves, genealogically and materially, into Rome\u2019s Christian past. Saintly lineages blossomed, as did the identification of churches as the former residences of early Christian and late antique saints\u2014cementing presumed links between place, descent and moral worth.",
+                "ToSupport": "Research and writing leading to a book on how\nprominent families in late medieval and early modern Rome appropriated\nChristian saints and hagiography into their own histories to further their moral\nand political authority.",
+                "PrimaryDiscipline": "Medieval History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Maya",
+                    "Lastname": "Maskarinec",
+                    "Institution": "University of Southern California",
+                    "City": "Los Angeles",
+                    "State": "CA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "Medieval History"
+                }
+            },
+            {
+                "@AppNumber": "FEL-267550-20",
+                "ApplicantType": "2",
+                "Institution": "Long Island University",
+                "OrganizationType": "University",
+                "InstCity": "Brooklyn",
+                "InstState": "NY",
+                "InstPostalCode": "11201-5301",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "7",
+                "Latitude": "40.69001",
+                "Longitude": "-73.98263",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "A Translation and Commentary of The Voronezh Notebooks by Russian Poet Osip Mandelstam (1891-1938)",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-05-01",
+                "EndGrant": "2021-04-30",
+                "ProjectDesc": "The project is a critical English-language edition of the <em>Voronezh Notebooks </em>of Osip Mandelstam, one of Russia\u2019s most significant 20th-century poets. These poems, written during his exile, in a period between destitution and hope, mark the moment of Mandelstam's crossing from modernist tradition to postmodern poetics, and his negotiation of individuality and collectivity in the precarious political context of Stalin's 1930s. Relying on recently available archival material and manuscript versions, and a wealth of scholarship written in the post-Soviet period, the proposed edition would offer new translations and contextualizing commentary on Mandelstam\u2019s crowning poetic achievement, providing the general reader as well as scholars with pertinent bibliographic information, a timeline of the poet's life, relevant documents from his NKVD files, and comparisons between early publications and contemporary authoritative editions.",
+                "ToSupport": "Preparation of an English-language translation and critical edition of the <em>Voronezh Notebooks</em> by the Russian poet Osip Mandelstam (1891-1938).",
+                "PrimaryDiscipline": "American Literature",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "John",
+                    "Lastname": "High",
+                    "Institution": "Long Island University",
+                    "City": "Brooklyn",
+                    "State": "NY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "American Literature"
+                }
+            },
+            {
+                "@AppNumber": "HB-267551-20",
+                "ApplicantType": "2",
+                "Institution": "Kentucky State University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "Frankfort",
+                "InstState": "KY",
+                "InstPostalCode": "40601-2334",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "1",
+                "Latitude": "38.19976",
+                "Longitude": "-84.85687",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Housing Discrimination in Chicago's Northern Suburbs, 1853-1966",
+                "Program": "Awards for Faculty",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-30",
+                "ProjectDesc": "In this book project, I recount the little-known but significant story of the 1965 North Shore Summer Project (NSSP).  Through the joint efforts of suburban housewives and established civil rights organizations, the summer project sought to expose and defy housing discrimination in eight suburbs collectively referred to as Chicago\u2019s North Shore.  NSSP was modeled after the Mississippi Freedom Summer Project, a voting rights campaign, and is possibly the only white protest consciously patterned after southern black models.  It was the first direct action civil rights movement in a suburban area. Even though the campaign fell short of its hoped-for impact, it paved the way for Martin Luther King, Jr.\u2019s 1966 Chicago Freedom Movement.",
+                "ToSupport": "Research and writing a book on the history of the North Shore Summer Project, a 1965 collaboration between civil rights groups and women\u2019s organizations in Chicago\u2019s northern suburbs working to address housing discrimination in those communities.",
+                "PrimaryDiscipline": "African American History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Mary",
+                    "Lastname": "Barr",
+                    "Institution": "Kentucky State University",
+                    "City": "Frankfort",
+                    "State": "KY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "African American History"
+                    },
+                    {
+                        "Name": "Sociology"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267562-20",
+                "ApplicantType": "2",
+                "Institution": "University of Rochester",
+                "OrganizationType": "University",
+                "InstCity": "Rochester",
+                "InstState": "NY",
+                "InstPostalCode": "14627-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "25",
+                "Latitude": "43.13182",
+                "Longitude": "-77.62391",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "An Edition and Translation of Toffeh 'Arukh (Hell Arrayed) by Oses Zacuto (1620-1697)",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "45000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "45000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "45000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-04-01",
+                "EndGrant": "2020-12-31",
+                "ProjectDesc": "Written at the height of the Italian Counter Reformation, <em>Tofteh \u2018Arukh (Hell Arrayed</em>) by rabbi-scholar Moses Zacuto (Amsterdam, c. 1620-Mantua, 1697) is a 925-line dramatic poem in Hebrew graphically depicting the hereafter of sinners according to Kabbalah, or Jewish mysticism. Despite its popularity among Jewish readership of the pre-modern era and being generally considered a milestone in the history of Hebrew literary culture, it has never been translated into English, nor has it been the subject of thorough scholarly investigation in English. Sitting at the intersection of textual studies and historical and literary criticism, the project intends to make <em>Tofteh \u2018Arukh</em> accessible to the English reader by offering the first-ever complete annotated English translation of the original Hebrew text. The translation will be supplemented by introductory essays framing Zacuto\u2019s work against the cultural ambience of early modern Jewish Italy in which it was produced, read, and circulated.",
+                "ToSupport": "Research and writing the first English\ntranslation-edition of the 17th-century Hebrew poem&nbsp;<em>Tofteh \u2018Arukh</em> (<em>Hell Arrayed</em>)\nby rabbi-scholar Moses Zacuto.",
+                "PrimaryDiscipline": "Near and Middle Eastern Literature",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Michela",
+                    "Lastname": "Andreatta",
+                    "Institution": "University of Rochester",
+                    "City": "Rochester",
+                    "State": "NY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-07"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Jewish Studies"
+                    },
+                    {
+                        "Name": "Literary Criticism"
+                    },
+                    {
+                        "Name": "Near and Middle Eastern Literature"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267576-20",
+                "ApplicantType": "2",
+                "Institution": "Emory University",
+                "OrganizationType": "Two-Year College",
+                "InstCity": "Atlanta",
+                "InstState": "GA",
+                "InstPostalCode": "30322-1018",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "5",
+                "Latitude": "33.788580",
+                "Longitude": "-84.326180",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Mapping Senufo: African Art History and the Art-Historical Monograph in the Era of Digital Publication",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "35000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "0.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "0.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2020-08-31",
+                "ProjectDesc": "<em>Mapping Senufo</em>\u2014an in-progress, collaborative, born-digital publication project I initiated and now co-direct\u2014contributes to my larger effort to forge alternate possibilities for how scholars study \u201ctraditional\u201d arts of Africa and present findings to broad audiences. <em>Mapping Senufo</em> also reflects a commitment to taking seriously the long-established understanding that a marker of identity, like the labeling of an art style or knowledge itself, is historically constituted, fluid, and positional. The multimodal, digital publication that the project team is developing will exemplify in its form the contingent nature of identities, art style labeling, and knowledge production. With a seven-month NEH-Mellon Fellowship for Digital Publication, I will generate text for the publication\u2019s introduction and a chapter-equivalent section of it, and I will lead the project team in completing the chapter-equivalent section to submit to Stanford University Press for review.",
+                "ToSupport": "Preparation of a digital publication that analyzes and reinterprets the term \u201cSenufo,\u201d a designation used for an important class of artworks from West Africa.",
+                "PrimaryDiscipline": "African Studies",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Susan",
+                    "Lastname": "Gagliardi",
+                    "Institution": "Emory University",
+                    "City": "Atlanta",
+                    "State": "GA",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-08"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "African Studies"
+                    },
+                    {
+                        "Name": "Art History and Criticism"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "HB-267584-20",
+                "ApplicantType": "2",
+                "Institution": "College of Menominee Nation",
+                "OrganizationType": "Two-Year College",
+                "InstCity": "Keshena",
+                "InstState": "WI",
+                "InstPostalCode": "54135-1179",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "8",
+                "Latitude": "44.89635",
+                "Longitude": "-88.58226",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Seeking Kiash Matchitiwuk (The Ancient Ones)-The Menominee Struggle for    Ethnic Identity",
+                "Program": "Awards for Faculty",
+                "Division": "Research Programs",
+                "ApprovedOutright": "45000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "45000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "45000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-02-01",
+                "EndGrant": "2021-01-31",
+                "ProjectDesc": "Vintage archaeological investigations on the Menominee reservation in northeastern Wisconsin linked the resident population to local prehistoric sites, a construct that supported oral traditions and the Menominee creation narrative. The tribe has been historically associated with wild rice harvesting as their Algonquian-derived name implies. By the turn of the 21st century this traditional framework was challenged by a new paradigm stating their claimed homeland may have been elsewhere, but retained their purported life-ways as hunters and gatherers. Multidisciplinary research by the Menominee tribe utilized archaeology, ethno-history, soil science, oral traditions, agronomy, and geography to construct a new paradigm in support of its traditional ethnic identity and culture history.  The new model moves the Menominee tribe across history\u2019s doorstep into the past they claim, but with a previously unrecognized adaptation of sustainable organic agriculture.",
+                "ToSupport": "Writing an archeological monograph describing the pre-history of the Menominee nation of northern Wisconsin.",
+                "PrimaryDiscipline": "Cultural History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "David",
+                    "Lastname": "Overstreet",
+                    "Institution": "Menominee Indian Tribe of Wisconsin",
+                    "City": "Keshena",
+                    "State": "WI",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-08"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Cultural History"
+                    },
+                    {
+                        "Name": "Ethnic Studies"
+                    },
+                    {
+                        "Name": "Interdisciplinary Studies, General"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267597-20",
+                "ApplicantType": "2",
+                "Institution": "Saginaw Valley State University",
+                "OrganizationType": "Four-Year College",
+                "InstCity": "University Center",
+                "InstState": "MI",
+                "InstPostalCode": "48710-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "8",
+                "Latitude": "43.552790",
+                "Longitude": "-83.980420",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Frances E.W. Harper's Civil War and Reconstruction: A Biographical and Literary Study of a 19th-Century African American Writer, Orator, and Activist",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2021-01-01",
+                "EndGrant": "2021-12-31",
+                "ProjectDesc": "With the support of an NEH Fellowship, I will\ncomplete the first book-length study of the Civil War and Reconstruction-era\nwork of African American writer, speaker, and activist Frances Ellen Watkins\nHarper (1825-1911). Harper\u2019s career\u2014especially the critical period between 1861\nand 1877\u2014remains surprisingly understudied, even though her efforts shaped\nAfrican American literature, abolitionism, suffrage and civil rights struggles,\nthe temperance movement, the Black press, and American lyceum culture. Beyond\neither traditional biography or collection of close readings, my book will\nexplore how Harper claimed these nation-shaking moments as her own, both\ncreating and critiquing public assessments of the war and its aftermath. It\nwill argue that she forged a deeply intersectional praxis of public life that\nengaged the communities around her and that modeled the citizenship she\ndemanded for herself and for other African Americans.",
+                "ToSupport": "Research and writing of a book on Frances Ellen\nWatkins Harper (1825-1911), African American author, orator, abolitionist,\nsuffragist, and civil rights leader.",
+                "PrimaryDiscipline": "American Literature",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Eric",
+                    "Lastname": "Gardner",
+                    "Institution": "Saginaw Valley State University",
+                    "City": "University Center",
+                    "State": "MI",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-08"
+                },
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "American Literature"
+                }
+            },
+            {
+                "@AppNumber": "HB-267613-20",
+                "ApplicantType": "2",
+                "Institution": "California State University, Long Beach",
+                "OrganizationType": "University",
+                "InstCity": "Long Beach",
+                "InstState": "CA",
+                "InstPostalCode": "90840-0004",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "42",
+                "Latitude": "33.78234",
+                "Longitude": "-118.12225",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "The Destruction and Afterlife of the Indian Mounds of St. Louis, Missouri",
+                "Program": "Awards for Faculty",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-08-01",
+                "EndGrant": "2022-07-31",
+                "ProjectDesc": "In the mid-1800s, daguerreotypist Thomas Easterly documented the transformation of St. Louis, Missouri, with images of buildings, roads, and railways. He also chronicled the disappearance of St. Louis\u2019s indigenous past. Perhaps most striking was the destruction of the Big Mound, a massive earthen structure. Part of a ceremonial district erected by Mississippian Mound Builders hundreds of years earlier, it was the largest of over two dozen mounds that gave the city its early claim to fame. During the 1800s, all\u2014except one outlier\u2014were razed. This project explores the life, death, and afterlife of the mounds, revealing their significance for both Indian and non-Indian peoples. It examines both the literal destruction of Indian cultural artifacts and the narrative erasure of Indian peoples in histories of the city\u2019s development. I will conduct research for two chapters and draft three others for my book on the mounds, under advance contract with University of Missouri Press.",
+                "ToSupport": "Research and writing leading to a book on the history of the Indian mounds in the area now occupied by the city of St. Louis, Missouri, showing how they shaped and were shaped by the city\u2019s development.",
+                "PrimaryDiscipline": "U.S. History",
+                "SupplementCount": "0",
+                "ParticipantCount": "0",
+                "DisciplineCount": "1",
+                "Discipline": {
+                    "Name": "U.S. History"
+                }
+            },
+            {
+                "@AppNumber": "FEL-267640-20",
+                "ApplicantType": "2",
+                "Institution": "University of Maryland, Baltimore County",
+                "OrganizationType": "University",
+                "InstCity": "Baltimore",
+                "InstState": "MD",
+                "InstPostalCode": "21250-0001",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "7",
+                "Latitude": "39.25569",
+                "Longitude": "-76.71442",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Confederate Hunger: Food and Famine in the Civil War South, 1861-1867",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-08-01",
+                "EndGrant": "2021-07-31",
+                "ProjectDesc": "Confederate Hunger: Food and Famine in the Civil War South is an exploration of hunger, starvation, and the myriad meanings of food in the Civil War-era South. I use culinary history, particularly as it pertains to Southern food shortages, as a lens into questions of nationalism, resistance, migration, and public welfare. My work is animated by the deceptively simple question: What do people eat when they are starving? And how does that experience shift depending on place, time, and circumstance?  This project focuses exclusively on the eleven states of the Confederacy, because of the impact that war and environment had on this agricultural region.",
+                "ToSupport": "Research leading to a book about the impact of food shortages on food culture in the Civil War South.",
+                "PrimaryDiscipline": "U.S. History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Anne",
+                    "Lastname": "Rubin",
+                    "Institution": "University of Maryland, Baltimore County",
+                    "City": "Baltimore",
+                    "State": "MD",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-08"
+                },
+                "DisciplineCount": "2",
+                "Discipline": [
+                    {
+                        "Name": "Cultural History"
+                    },
+                    {
+                        "Name": "U.S. History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267650-20",
+                "ApplicantType": "2",
+                "Institution": "Rutgers University, Camden",
+                "OrganizationType": "University",
+                "InstCity": "Camden",
+                "InstState": "NJ",
+                "InstPostalCode": "08102-1405",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "1",
+                "Latitude": "39.94823",
+                "Longitude": "-75.12044",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "Latinos, the Civil Rights Movement, and the Making of Multiracial America After the 1960s",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-07-01",
+                "EndGrant": "2021-06-30",
+                "ProjectDesc": "Minority: Latinos and the Making of Multiracial America after the 1960s offers a full account of Latinos\u2019 centrality to the struggles over law and policy that reconfigured American society after the 1960s. The book will argue that Latino activism and leadership contributed substantially to the outcome of major domestic conflicts and debates during the long decade of the 1970s: battles over school desegregation and busing, political redistricting, affirmative action in employment, and access to higher education, as well as ongoing protests against police brutality and disagreements over the causes of growing urban poverty. The real impact of the major changes that took shape in American society during the 1970s--the coda to the conventionally-defined civil rights movement--cannot be understood without expanding this national story to incorporate Latinos as central historical actors.",
+                "ToSupport": "Research and writing leading to a\nbook on the Latino involvement in the Civil Rights Movement between 1968 and\n1984.",
+                "PrimaryDiscipline": "Latino History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Lorrin",
+                    "Lastname": "Thomas",
+                    "Institution": "Rutgers University, Camden",
+                    "City": "Camden",
+                    "State": "NJ",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-08"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Latino History"
+                    },
+                    {
+                        "Name": "Political History"
+                    },
+                    {
+                        "Name": "U.S. History"
+                    }
+                ]
+            },
+            {
+                "@AppNumber": "FEL-267657-20",
+                "ApplicantType": "2",
+                "Institution": "Trustees of Columbia University in the City of New York",
+                "OrganizationType": "Center For Advanced Study/Research Institute",
+                "InstCity": "New York",
+                "InstState": "NY",
+                "InstPostalCode": "10027-7922",
+                "InstCountry": "USA",
+                "CongressionalDistrict": "13",
+                "Latitude": "40.817710",
+                "Longitude": "-73.957070",
+                "CouncilDate": "2019-12-01",
+                "YearAwarded": "2019",
+                "ProjectTitle": "A Cultural History of Incarceration and the Prison in Greece and Rome",
+                "Program": "Fellowships",
+                "Division": "Research Programs",
+                "ApprovedOutright": "60000.0000",
+                "ApprovedMatching": "0.0000",
+                "AwardOutright": "60000.0000",
+                "AwardMatching": "0.0000",
+                "OriginalAmount": "60000.0000",
+                "SupplementAmount": "0.0000",
+                "BeginGrant": "2020-09-01",
+                "EndGrant": "2021-08-31",
+                "ProjectDesc": "The first comprehensive study in English of the development of prisons in the ancient Greco-Roman Mediterranean. Combining archaeological, historiographical, legal, and literary evidence, this book offers a systematic examination of the earliest evidence for the emergence of prisons in Archaic Greece. It examines forms of incarceration, such as debt bondage and slavery, which predated, coexisted alongside, and supplied conceptual, legal, and linguistic frameworks within which early prisons were understood. It presents historical analysis of the state prison in Athens and the Classical Athenian prisoner population. And it examines the uses of incarceration in Roman law and the proliferation of prisons as an instrument of imperial administration in the Roman Empire, showing that these prisons served as the site of complex negotiations of authority among the imperial center located in Rome, provincial governors who oversaw the administration of prisons, and local populations.",
+                "ToSupport": "Research\nand writing leading to a book on the social and political history of\nprisons in the ancient Greco-Roman world.",
+                "PrimaryDiscipline": "Classical History",
+                "SupplementCount": "0",
+                "ParticipantCount": "1",
+                "Participant": {
+                    "Firstname": "Marcus",
+                    "Lastname": "Folch",
+                    "Institution": "Trustees of Columbia University in the City of New York",
+                    "City": "New York",
+                    "State": "NY",
+                    "Country": "USA",
+                    "ParticipantTypeDesc": "Project Director",
+                    "ValidFr": "2019-04-08"
+                },
+                "DisciplineCount": "3",
+                "Discipline": [
+                    {
+                        "Name": "Classical History"
+                    },
+                    {
+                        "Name": "Classical Literature"
+                    },
+                    {
+                        "Name": "Legal History"
+                    }
+                ]
+            }
+        ]
+    }
+}
