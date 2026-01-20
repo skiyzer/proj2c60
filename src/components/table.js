@@ -1,7 +1,21 @@
 import '../Table.css';
 import TableRow from './tablerow';
 
-function Table({ grants }) {
+function Table({ grants, onSort, sortConfig = { key: '', direction: 'asc' } }) {
+  const handleSort = (key) => {
+    if (onSort) {
+      onSort(key);
+    }
+  };
+
+  const getSortLabel = (key) => {
+    if (sortConfig.key !== key) {
+      return '';
+    }
+
+    return sortConfig.direction === 'asc' ? 'ASC' : 'DESC';
+  };
+
   return (
     <table className="grant-table">
       <thead>
@@ -12,8 +26,30 @@ function Table({ grants }) {
           <th>State</th>
           <th>Program</th>
           <th>Division</th>
-          <th>Year Awarded</th>
-          <th>Original Amount</th>
+          <th>
+            <button
+              type="button"
+              className={`sort-button ${sortConfig.key === 'YearAwarded' ? 'is-active' : ''}`}
+              onClick={() => handleSort('YearAwarded')}
+            >
+              Year Awarded
+              {getSortLabel('YearAwarded') && (
+                <span className="sort-indicator">{getSortLabel('YearAwarded')}</span>
+              )}
+            </button>
+          </th>
+          <th>
+            <button
+              type="button"
+              className={`sort-button ${sortConfig.key === 'OriginalAmount' ? 'is-active' : ''}`}
+              onClick={() => handleSort('OriginalAmount')}
+            >
+              Original Amount
+              {getSortLabel('OriginalAmount') && (
+                <span className="sort-indicator">{getSortLabel('OriginalAmount')}</span>
+              )}
+            </button>
+          </th>
         </tr>
       </thead>
       <tbody>
